@@ -1,0 +1,15 @@
+
+R
+java:S3655<"7Call "Optional#isPresent()" before accessing the value.(Æ¶Ç—şÿÿÿÿ
+Y
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(¢º™ıÿÿÿÿ8Òüçîá/
+I
+java:S1905"'Remove this unnecessary cast to "List".(¢º™ıÿÿÿÿ8Òüçîá/
+R
+java:S3655%"7Call "Optional#isPresent()" before accessing the value.(¡‹òùÿÿÿÿ
+M
+java:S3655d"7Call "Optional#isPresent()" before accessing the value.(«‡Õ
+R
+java:S3655S"7Call "Optional#isPresent()" before accessing the value.(Æ¶Ç—şÿÿÿÿ
+Y
+java:S3655["7Call "Optional#isPresent()" before accessing the value.(Æ¶Ç—şÿÿÿÿ8Êû‘÷à/

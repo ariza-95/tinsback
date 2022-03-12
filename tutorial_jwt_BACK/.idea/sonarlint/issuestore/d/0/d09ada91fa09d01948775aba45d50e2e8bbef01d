@@ -1,0 +1,15 @@
+
+M
+java:S3655M"7Call "Optional#isPresent()" before accessing the value.(øï²
+<
+java:S1452C"&Remove usage of generic wildcard type.(€ÁÚ‹
+M
+java:S3655'"7Call "Optional#isPresent()" before accessing the value.(øï²
+<
+java:S1452Z"&Remove usage of generic wildcard type.(†ÈÔ—
+R
+java:S3655/"7Call "Optional#isPresent()" before accessing the value.(éŒ”ıÿÿÿÿ
+<
+java:S14525"&Remove usage of generic wildcard type.(›Ş•œ
+R
+java:S3655F"7Call "Optional#isPresent()" before accessing the value.(Ÿ¿íúüÿÿÿÿ

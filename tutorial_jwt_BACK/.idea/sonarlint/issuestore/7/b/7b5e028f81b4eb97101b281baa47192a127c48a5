@@ -1,0 +1,21 @@
+
+R
+java:S3655="7Call "Optional#isPresent()" before accessing the value.(õ×µ°ûÿÿÿÿ
+R
+java:S3655("7Call "Optional#isPresent()" before accessing the value.(õ×µ°ûÿÿÿÿ
+R
+java:S3655F"7Call "Optional#isPresent()" before accessing the value.(ÒÍ¨ßüÿÿÿÿ
+R
+java:S3655&"7Call "Optional#isPresent()" before accessing the value.(ÒÍ¨ßüÿÿÿÿ
+R
+java:S3655;"7Call "Optional#isPresent()" before accessing the value.(ÒÍ¨ßüÿÿÿÿ
+<
+java:S14520"&Remove usage of generic wildcard type.(»úìú
+V
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(»úìú
+A
+java:S1452:"&Remove usage of generic wildcard type.(Öšâýÿÿÿÿ
+[
+java:S4684:"@Replace this persistent entity with a simple POJO or DTO object.(Öšâýÿÿÿÿ
+<
+java:S1452E"&Remove usage of generic wildcard type.(†ÈÔ—

@@ -1,0 +1,40 @@
+
+Z
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(£å‰òûÿÿÿÿ8Á‘ñá/
+S
+java:S3655|"7Call "Optional#isPresent()" before accessing the value.(ÿ«H8Á‘ñá/
+`
+java:S1128">Remove this unused import 'com.tutorial.crud.entity.Vendedor'.(¡îµ¼øÿÿÿÿ8Ñşõöà/
+L
+java:S1172")Remove this unused method parameter "id".(€´Ûšúÿÿÿÿ8Á‘ñá/
+P
+java:S1481X"3Remove this unused "valorDescuento" local variable.(ÀÚ‘‰8È††ñá/
+I
+java:S1905&"'Remove this unnecessary cast to "List".(¡¬Ÿœüÿÿÿÿ8à­µóá/
+Z
+java:S1481Y"8Remove this unused "porcentajeDescuento" local variable.(Œ—©üıÿÿÿÿ8Á‘ñá/
+T
+java:S3655s"7Call "Optional#isPresent()" before accessing the value.(ÈÆ›—8Á‘ñá/
+Z
+java:S1854="8Remove this useless assignment to local variable "date".(¦¤ß²şÿÿÿÿ8¢ıÒóá/
+]
+java:S1128
+"@Remove this unused import 'com.tutorial.crud.entity.Inventario'.(Ü‰8´Š÷à/
+Y
+java:S3655&"7Call "Optional#isPresent()" before accessing the value.(¡¬Ÿœüÿÿÿÿ8à­µóá/
+Y
+java:S3655["7Call "Optional#isPresent()" before accessing the value.(½‰ê¹ÿÿÿÿÿ8Á‘ñá/
+U
+java:S3655¨"7Call "Optional#isPresent()" before accessing the value.(åÌ‰À8à­µóá/
+U
+java:S3655®"7Call "Optional#isPresent()" before accessing the value.(§»ğƒ8à­µóá/
+Z
+java:S3655…"7Call "Optional#isPresent()" before accessing the value.(›ôõıÿÿÿÿ8Á‘ñá/
+T
+java:S3655c"7Call "Optional#isPresent()" before accessing the value.(Î‹¡š8Á‘ñá/
+k
+java:S1128"NRemove this unused import 'com.tutorial.crud.repository.InventarioRepository'.(Üï§Â8ó×Èöà/
+K
+java:S1481=")Remove this unused "date" local variable.(¦¤ß²şÿÿÿÿ8¢ıÒóá/
+T
+java:S3655k"7Call "Optional#isPresent()" before accessing the value.(ş¶¨í8Á‘ñá/

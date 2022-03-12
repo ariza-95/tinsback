@@ -1,0 +1,23 @@
+
+V
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(À¨ì–
+<
+java:S1452l"&Remove usage of generic wildcard type.(†ÈÔ—
+[
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(É‚é×øÿÿÿÿ
+[
+java:S4684c"@Replace this persistent entity with a simple POJO or DTO object.(ýÕ¼‡ûÿÿÿÿ
+Y
+java:S3655,"7Call "Optional#isPresent()" before accessing the value.(ÑŽŽŒÿÿÿÿÿ8ƒ‘ïÞ/
+[
+java:S4684\"@Replace this persistent entity with a simple POJO or DTO object.(ËÓÒ«ýÿÿÿÿ
+A
+java:S1452\"&Remove usage of generic wildcard type.(ËÓÒ«ýÿÿÿÿ
+T
+java:S3655*"7Call "Optional#isPresent()" before accessing the value.(ÄÅÂ–8ƒ‘ïÞ/
+T
+java:S3655d"7Call "Optional#isPresent()" before accessing the value.(ÄÅÂ–8ƒ‘ïÞ/
+T
+java:S3655m"7Call "Optional#isPresent()" before accessing the value.(ÄÅÂ–8ƒ‘ïÞ/
+A
+java:S1452c"&Remove usage of generic wildcard type.(ýÕ¼‡ûÿÿÿÿ

@@ -1,0 +1,27 @@
+
+Y
+java:S3655H"7Call "Optional#isPresent()" before accessing the value.(²Å¸¥ÿÿÿÿÿ8’—ããà/
+n
+java:S1871^"LThis branch's code block is the same as the block for the branch on line 91.(‹›öøıÿÿÿÿ8ğ®¦ñŞ/
+Y
+java:S3655X"7Call "Optional#isPresent()" before accessing the value.(¾ªœıÿÿÿÿ8‚°ÿñŞ/
+T
+java:S3655P"7Call "Optional#isPresent()" before accessing the value.(ã¬ÑÚ8‡æÅñŞ/
+U
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(½Â¨º8‚°ÿñŞ/
+Y
+java:S3655>"7Call "Optional#isPresent()" before accessing the value.(¤¹ğùÿÿÿÿ8ıÚìğŞ/
+Z
+java:S3655„"7Call "Optional#isPresent()" before accessing the value.(¾ªœıÿÿÿÿ8‚°ÿñŞ/
+T
+java:S3655d"7Call "Optional#isPresent()" before accessing the value.(Ô×÷É8‚Ûßãà/
+Y
+java:S3655S"7Call "Optional#isPresent()" before accessing the value.( ÕˆÛÿÿÿÿÿ8ıÚìğŞ/
+L
+java:S1172¡")Remove this unused method parameter "id".(”¯¼¢ûÿÿÿÿ8Ş®ÌñŞ/
+U
+java:S3655¬"7Call "Optional#isPresent()" before accessing the value.(Ş™±ù8Ş®ÌñŞ/
+T
+java:S3655m"7Call "Optional#isPresent()" before accessing the value.(½Â¨º8‚°ÿñŞ/
+Y
+java:S1128">Remove this unused import 'com.tutorial.crud.entity.Clientes'.(ó›ùÿÿÿÿ

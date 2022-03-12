@@ -1,0 +1,15 @@
+
+S
+java:S1128"8Remove this unused import 'javax.persistence.JoinTable'.(ùö±µùÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á
+]
+java:S1128"BRemove this unused import 'org.hibernate.exception.DataException'.(™·–Óûÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿
+N
+java:S1128"9Remove this unused import 'javax.persistence.ManyToMany'.(Àğ½
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX

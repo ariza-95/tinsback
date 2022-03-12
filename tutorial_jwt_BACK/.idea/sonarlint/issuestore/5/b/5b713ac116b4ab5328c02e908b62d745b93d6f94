@@ -1,0 +1,21 @@
+
+L
+java:S3655O"7Call "Optional#isPresent()" before accessing the value.(â¤¾p
+M
+java:S3655;"7Call "Optional#isPresent()" before accessing the value.(À„¡¹
+L
+java:S3655X"7Call "Optional#isPresent()" before accessing the value.(â¤¾p
+L
+java:S36559"7Call "Optional#isPresent()" before accessing the value.(â¤¾p
+\
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ
+<
+java:S1452G"&Remove usage of generic wildcard type.(äÙž°
+V
+java:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(äÙž°
+A
+java:S1452N"&Remove usage of generic wildcard type.(éÉØùÿÿÿÿ
+[
+java:S4684N"@Replace this persistent entity with a simple POJO or DTO object.(éÉØùÿÿÿÿ
+<
+java:S1452W"&Remove usage of generic wildcard type.(†ÈÔ—

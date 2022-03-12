@@ -1,0 +1,27 @@
+
+H
+java:S1452\"&Remove usage of generic wildcard type.(€Ñ¡Ãùÿÿÿÿ8¯¬¥÷à/
+T
+java:S36555"7Call "Optional#isPresent()" before accessing the value.(ŸÏ³Ï8äÁèøà/
+]
+java:S1128	"@Remove this unused import 'com.tutorial.crud.entity.Inventario'.(Üž‰8ßû²÷à/
+C
+java:S1452e"&Remove usage of generic wildcard type.(ÍøËš8¯¬¥÷à/
+T
+java:S36553"7Call "Optional#isPresent()" before accessing the value.(„êÃÚ8äÁèøà/
+T
+java:S3655f"7Call "Optional#isPresent()" before accessing the value.(„êÃÚ8äÁèøà/
+]
+java:S46849"@Replace this persistent entity with a simple POJO or DTO object.(¯Ï„Ì8‹åÍûà/
+b
+java:S4684\"@Replace this persistent entity with a simple POJO or DTO object.(€Ñ¡Ãùÿÿÿÿ8¯¬¥÷à/
+C
+java:S1452n"&Remove usage of generic wildcard type.(†ÈÔ—8¯¬¥÷à/
+b
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(øÿ£Åùÿÿÿÿ8åÑÏûà/
+T
+java:S3655o"7Call "Optional#isPresent()" before accessing the value.(„êÃÚ8äÁèøà/
+`
+java:S1128">Remove this unused import 'com.tutorial.crud.entity.Vendedor'.(¡îµ¼øÿÿÿÿ8þø­÷à/
+]
+java:S4684e"@Replace this persistent entity with a simple POJO or DTO object.(ÍøËš8¯¬¥÷à/
